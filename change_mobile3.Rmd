@@ -1,0 +1,451 @@
+% Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Used Nuclear Fuel Management 
+
+```{r, include=FALSE}
+source("changeFINAL.R")
+```
+
+\begin{abstract}
+\noindent Many of the leading theories of the policy process are aimed at providing insights into the factors that make policy change more (or less) likely. In general, policy change is seen as a result of shifting dynamics within policy subsystems. However, building on theories of policy feedback and interest mobilization, this manuscript examines whether policy change, apart from being an effect of subsystem dynamics can be a cause of shifting dynamics as latent actors are motivated to participate in the subsystem as a result of policy change. I develop and test two hypotheses regarding post--policy change mobilization and test these hypotheses using data on participation in Congressional hearings about the management of used nuclear fuel. I find that policy change can activate latent policy actors, specifically those actors that view themselves as "losing" as a result of the policy change. These results point to the need for scholars to examine the potential impacts of post--policy change dynamics on policy development. 
+\end{abstract}
+
+# Introduction
+Policy change is of major importance to policy scholars. Indeed, much
+of the work on policy process theories is geared toward explaining the
+necessary conditions and processes required for policy change to
+occur [@heikkila_understanding_2014]. Policy changes are thought to occur as result of changing conditions--either external or internal to a semi-autonomous policy subsystem--that impact the dynamics within that subsystem. Some examples of the external conditions, or "shocks", include "changes in socioeconomic conditions, regime change, outputs from other
+subsystems, or disaster" [@sabatier_advocacy_2007, 198-199]. These shocks can shift advocacy coalitions, open policy windows, and/or compel punctuations, all of which can make policy change more likely. Other possible avenues for change are those that are internal to the subsystem such as policy--oriented
+learning, changing policy images, changing policy venues, and shifts in
+attention to different dimensions of the issue
+[@baumgartner_agendas_1993;@sabatier_policy_1993;@jones_change_1994]. Policy change is often seen as the "end product" of shifting dynamics within a subsystem that occur as a result of external or internal shocks. These dynamics include the set of policy actors active within the subsystem and the policy venues, or institutions, in which policymaking occurs [@baumgartner_agendas_1993]. While policy scholars have gleaned a great deal of insight into how policy change occurs (or doesn't) as a result of subsystem dynamics, little work has examined the impacts of policy change on subsequent dynamics. Can policy change, apart from being a result of subsystem dynamics, also act as an internal shock that can shift the dynamics within a subsystem? Specifically, can policy change alter the level of engagement of policy actors in the subsystem?
+
+Policy change implies changes in policy designs--the content of public policies--and research on policy design has noted that these design can impact subsequent policy and political developments within a particular policy area through a process of feedback (or feed-forward). [@schneider_policy_1997;@ingram_social_2007;@pierce_social_2014]. Policy designs establish power through the designation of policy "winners" and "losers", where "winners" are those that are likely to benefit from the policy and the "losers" are those that are likely to bear a disproportionate amount of the cost of the policy. Therefore changes in policy designs (i.e., potential shifts in power) are one mechanism through which policy change would attract latent participants, particularly potential "losers", to a subsystem. A second mechanism involves the mobilization of interests that results from government attention and actions. Interest group scholars have noted that interest group mobilization is often a function of government activity. When a particular policy issue reaches the policymaking agenda interest groups are incentivized to become more active in the hopes of influencing policy decisions  [@leech_drawing_2005]. In this article, I examine how policy change works to alter subsystem dynamics through policy feedback and interest mobilization using the case of used nuclear fuel (UNF) management in the United States.^[The phrase used nuclear fuel will be used throughout this article, however it could be considered synonymous with "nuclear waste" or "spent nuclear fuel."]
+
+The UNF management subsystem is centered on dealing with the radioactive material that remains following the production of nuclear energy. This issue has remained extremely contentious, in the United States and in other industrialized countries that rely on nuclear energy, for several decades. At stake is the question of how used nuclear fuel should be handled and/or disposed and who should be responsible [@vandenbosch_nuclear_2007]. In the United States it was decided in 1982 that the federal government would be responsible for the disposal of UNF, and from 1987 until 2010 UNF was to be disposed of at Yucca Mountain in Nevada. The selection of Yucca Mountain, 90 miles outside of Las Vegas NV, in 1987 as the only site to be considered for the long--term disposal of UNF was controversial from the outset, particularly among residents and public officials in Nevada [@flynn_yucca_1995]. The opposition to Yucca Mountain generated from Nevada reflects the difficulty of UNF management in a federalist system given the likelihood of NIMBY (not-in-my-backyard) sentiments to a potentially risky facility [@downey_federalism_1985;@kraft_public_1991;@landstrom_long-term_2014]. After 2 and 1/2 decades of controversy, in 2010 the Obama administration ordered the Department of Energy and the Nuclear Regulatory Commission to halt further consideration of Yucca Mountain [@karlesky_collaboration_2012].
+
+Overall, the UNF subsystem experienced, at least, two major policy changes, the Nuclear Waste Policy Act of 1982 (NWPA), establishing the guidelines for how the development of a UNF repository should proceed, and the amendment to the NWPA in 1987 that designated Yucca Mountain as the sole repository site. These policy changes provide opportunity to test hypotheses about the impacts of policy change on subsystem dynamics. In addition, the UNF subsystem attracted a wide range of policy actors including federal agencies, intergovernmental actors (e.g., state, local, and tribal officials), and interest groups allowing for the testing of hypotheses about interest mobilization. Finally, the UNF subsystem has existed since the mid-1970s and the period under analysis includes 1975 to 2012, well beyond the window of at least 10 years, recommended by @sabatier_advocacy_2007, to study policy change and development.
+
+# Subsystem Dynamics, Policy Feedback, and Mobilization
+Scholars of the policy process have noted that public policy is best
+understood as occurring within specialized semi-autonomous subsystems containing interested actors seeking to influence decisions within a particular policy domain.  They consist of "the group of people and/or organizations interacting regularly over periods of a decade or more to influence policy formulation and implementation within a given policy area/domain" [@sabatier_advocacy_1999, 135]. These groups and organizations include members of Congress; members of executive agencies, interest groups, state and local government officials, among others.  Mature, as opposed to nascent, subsystems are characterized by a stable set of actors engaged in a policy area across the same venues for at a decade [@sabatier_advocacy_2007]. Subsystems allow policymaking institutions to handle multiple issues simultaneously through parallel processing.  In addition, subsystems are linked to policy venues such as congressional committees and/or executive agencies (or sub-units within executive agencies) where decision-making occurs.
+
+Subsystem dynamics are a function of two feedback processes, negative feedback and positive feedback. Negative feedback is marked by a stable collection of policy actors that are engaged across a stable set of policy venues and subscribe to a common policy image, or definition of an issue [@baumgartner_policy_2002]. This type of subsystem has been variously termed an iron triangle [@mccool_subsystem_1998], a policy monopoly [@baumgartner_agendas_1993], a unitary subsystem [@weible_expert-based_2008], and is likely to contain a single dominant coalition [@worsham_wavering_1998]. The hallmark of this type of subsystem is policy equilibrium and stasis, or at most incremental policy change. However, significant shocks, either internal or external, can impact the subsystem leading to positive feedback and a disruption of the equilibrium within the subsystem. Positive feedback is associated with new or latent policy actors being mobilized, changing policy venues, and a new policy image or a redefining of the policy issue [@baumgartner_policy_2002]. The disequilibrium that occurs from positive feedback makes major, large-scale policy change much more likely. In general, 
+subsystems can be thought of as having a "wavering" equilibrium that varies from stability and insular decision-making all the way to disruption and open venue access [@worsham_wavering_1998]. These dynamics have been compared to plate tectonics, where stability is interrupted through the build up of pressure which causes sudden shifting, resulting in earthquakes [@jones_politics_2005; @true_punctuated-equilibrium_2007]. 
+
+The process outlined above provides valuable insight to explain a policymaking process that is marked by long periods of stability and shorter periods of punctuated change. In this manuscript, I argue that policy change, acting through a policy feedback process, can itself work to mobilize interests and shift subsystem dynamics. 
+
+## Policy Feedback 
+As noted, most theories of the policy process are focused on examining the conditions that make policy change more likely. One of the most notable conditions are shocks, either external or internal, that shift subsystem dynamics. However, policy change itself has the potential to act as an internal subsystem shock, disrupting a policy subsystem and altering its dynamics. Public policy is largely path dependent; therefore apart from being a "cause" of policy change, changing subsystem dynamics can also be an "effect" of policy change through a process of policy feedback [@pierson_when_1993; @mettler_bringing_2002; @soss_public_2007;@mettler_policy_2014]. Policy feedback builds from the classic notion of "policy creating politics", and posits that policy change can feedback (sometimes referred to as "feed-forward") through policy subsystems and influence future policy directions [@schneider_what_2009; @pierce_social_2014; @soss_policy_2014]. In keeping with the earthquake analogy, policy feedback can be thought of as an "aftershock" resulting from the shifting subsystem dynamics that lead to policy change.  This feedback function works as a result of the changes made to the substance of a policy, or in other words, changes to policy design. Policy change, both major and minor, imply changes in policy designs and policy designs can create or reinforce existing social constructions regarding the group(s) that  will be impacted by the policy [@schneider_social_1993; @ingram_social_2007; @schneider_what_2009], encourage or discourage political participation [@campbell_policy_2012], and shape agency implementation [@hall_structures_2000; @soss_policy_2014].
+
+In brief, policy designs and the social constructions embedded within them distribute the costs and benefits that serve to determine the policy "winners" and "losers", thereby helping to shape the type of politics---or conflict---that exists within a policy subsystem. Subsystem dynamics can be said to be driven, in part, by the losers trying to become winners and the winners trying to maintain their position [@baumgartner_agendas_1993; @shepsle_losers_2003]. While policy change is often the _result_ of these dynamics, policy change and the resulting changes in policy designs can upend the existing dynamics within the subsystem and lead to conflict expansion and interest mobilization. Changed policy designs, through policy feedback, can create demand for interests that perceive themselves as losers as a result of the policy change to be mobilized and participate in the subsystem. 
+
+## Interest Mobilization
+A long line of literature has focused on the mobilization of interests
+and interest groups [e.g., @olson_logic_1971; @walker_mobilizing_1991; @baumgartner_basic_1998; @baumgartner_lobbying_2009; @hojnacki_studying_2012].
+In the pluralist tradition of @truman_governmental_1951,
+much of this work has focused on the ways in which groups mobilize to
+petition the government to act on behalf of their particular
+interest or as a result of some changing societal conditions. Often this research, following @olson_logic_1971, has focused on the internal determinants of group mobilization and the difficulties of overcoming the problems associated with collective action. However, an alternate focus has developed based on external determinants of group activity [e.g., @gray_population_1996]. One such external determinant is government activity, which can create "demand" for interest groups to mobilize [@leech_drawing_2005; @gray_legislative_2005; @baumgartner_federal_2009; @dusso_legislation_2010; @baumgartner_congressional_2011; @lapira_lobbying_2014]. For example, pluralist theory would hold that environmental interest groups mobilize and lobby Congress to enact environmental protection policies, however under theories of government demand environmental groups mobilize as a result of Congressional actions with regard to environmental protection. @leech_drawing_2005 examined this "reciprocal" relationship between government and interest groups and found that Congressional lobbying (measured by lobbying reports required under the Lobbying Disclosure Act of 1996) was driven by the level of government activity (measured by Congressional hearings and federal spending) within a particular policy domain. Building on this insight, @baumgartner_federal_2009 noted that federal government activity can increase the participation of various interests at the state level. More recently, @lapira_lobbying_2014 examined the interest mobilization that occurs as a result of large-scale external shocks that reorganize subsystems into "boundary--spanning policy regimes" (p. 266). Specifically, @lapira_lobbying_2014 found that following the September 11th attacks and the creation of the homeland security policy regime [see @may_constructing_2011], established interest groups shifted their focus and new and/or latent groups became active within the homeland security policy regime. 
+
+The demand model of interest participation offers a way for policy scholars to examine post--policy change subsystem dynamics. Specifically, government activity--in the form of policy change--can act as a stimulate to draw new actors into a policy subsystem. The model is closely related to the conflict expansion [@schattschneider_semi-sovereign_1960] aspect of subsystem dynamics, particularly as adopted by @baumgartner_agendas_1993, where conflict expansion is a part of the positive feedback process. However, mobilization in the demand model is solely a function of some type of government activity, whereas with punctuated equilibrium theory conflict expansion is a result of shifting policy images and new policy venues. Similar to the notion of conflict expansion, policy scholars can leverage the demand model, coupled with policy feedback to test hypotheses about the nature of subsystem dynamics following policy change. Additionally, to be most useful to policy scholars these hypotheses should examine the mobilization of other actors apart from interest groups. Finally, it is important to know who might mobilize and why. 
+
+Subsystem dynamics are a function of negative and positive feedback, where negative feedback works to make policy change less likely and positive feedback, in the form of new and/or latent policy actors, new policy venues, and/or new policy images work to make policy change more likely. However, policy change itself has the potential to alter subsystem dynamics by attracting latent actors into the policy subsystem. Therefore I posit the following hypothesis:
+
+_H1: Following major policy change, latent actors will become active in the policy subsystem_ 
+ 
+As noted, policy change implies a change in policy designs, and these new designs can alter which groups are winners and which are losers. Groups that are now losers--those that see themselves as bearing the cost of the policy change--face incentives to become engaged in the subsystem. As a result, the type of latent actors that policy change is likely to attract is not random, but rather those actors that are most likely to be harmed by the policy change. Therefore I posit the following hypothesis: 
+
+_H2: Following major policy change, groups that are potential losers are likely to become active in the policy subsystem_ 
+
+To test these hypotheses, I use data based on Congressional hearings regarding policies designed to manage the used nuclear fuel (UNF) that exists in the US. In the next section I describe the development of the UNF subsystem.
+
+# The Used Nuclear Fuel Subsystem
+Used nuclear fuel (UNF) management initially evolved as a dimension of the nuclear energy subsystem, however UNF begin to development as a distinct policy issue following several changes in the nuclear energy subsystem. In the 1940s and 1950s the nuclear energy subsystem was the quintessential iron triangle, or policy monopoly, with a dominant coalition of energy companies, members of the Joint Committee on Atomic Energy in Congress (JCAE), and bureaucrats within the Atomic Energy Commission (AEC) in charge of all aspects of the development of civilian nuclear energy [@baumgartner_agenda_1991; @duffy_nuclear_1997]. Baumgartner and Jones [-@baumgartner_agendas_1993], 
+argue that the disruption of the nuclear energy
+subsystem, that began in the 1960s and followed through the 1970s,
+was precipitated by the interaction of policy images and political institutions. As the policy image of nuclear energy began to shift, from positive to negative, opponents of nuclear energy were able to successfully 
+apply pressure to other policy institutions (e.g., various congressional committees, the courts) to claim jurisdiction on elements of nuclear energy. The claiming of jurisdiction by multiple institutions, split the previously dominant coalition. While no single event marks the
+demise of the nuclear energy subsystem, major change was initiated
+with the Energy Reorganization Act of 1974 (ERA). The ERA split the AEC 
+into the Energy Research and Development
+Administration (later the Department of Energy) and the Nuclear
+Regulatory Commission (NRC). These shifting dynamics also weakened the
+once powerful JCAE, and it was disbanded in 1977. These two changes
+altered the institutional foundation of the nuclear energy subsystem,
+and laid the groundwork for the development of a distinct UNF subsystem. 
+
+The shifting policy images of nuclear energy and changing institutional foundations of the nuclear energy subsystem set the stage for UNF management to emerge as its own subsystem  with distinct controversies and interest participation. Below I briefly describe the evolution of the UNF subsystem, captured in four policy eras that include major events and legislation associated with UNF. Table \ref{tab:history} outlines the four policy eras, based on the policy evolution of used nuclear materials management. Specifically, these periods are delineated by the three major UNF policy changes. The first era includes the years prior the passage of the Nuclear Waste Policy Act (NWPA) (1975-1982), the second era includes the years following the NWPA but before the Nuclear Waste Policy Amendments Act (NWPAA) (1983-1987), the third era includes the years following the NWPAA (1988-2009), and the fourth era are the years following the withdrawal of the Yucca Mountain license application (2010 to the present). In addition, Table \ref{tab:history} also presents the significant legislative and/or executive actions that occurred during those periods. Following Table \ref{tab:history}, I briefly describe each of the four eras.
+
+\begin{center}
+\textbf{TABLE \ref{tab:history} ABOUT HERE}
+\end{center}
+
+## Pre-Nuclear Waste Policy Act (1975-1982) 
+In this early period, the management of UNF was not considered
+to be consequential in the development of civilian nuclear energy. Indeed, the safe disposal of this material was considered at the time to be a "solvable problem" [@walker_road_2009]. In the mid 1950's the National Academy of Sciences (NAS) issued a report that recommended deep geologic disposal of used nuclear materials [@vandenbosch_nuclear_2007]. In particular, the NAS recommended salt as the geologic medium for disposal. Following this
+recommendation, the Atomic Energy Commission (AEC) began to examine
+possible sites for the permanent disposal of nuclear materials. One
+site that was considered in the early 1970's was the salt deposits
+near Lyons, Kansas. However, this site was abandoned due to
+scientific and technical concerns over the impact of boreholes, created
+when exploring for oil and gas, on the structural integrity of the
+site. In addition, there were political concerns expressed by state
+and local officials in Kansas [for more on the Lyons case
+see @carter_nuclear_1987; @vandenbosch_nuclear_2007; @walker_road_2009]. The Lyons case was indicative of the type of state and local concerns that were to persist throughout the development of UNF policy.
+
+In 1978 the Carter administration formed an Interagency working group
+to examine the scientific and technical issues surrounding the
+management of UNF. This working group released a report
+in 1979 that recommended, among other things, that the search for repository sites should consider a number of locations in a variety of geologic environments leading to the option of having at least two repositories, preferably in different regions of the country [@vandenbosch_nuclear_2007, 53]. Following the working group's report, several pieces of UNF management
+legislation were introduced in the 96th and 97th
+Congresses based on the report, proposals by the Carter
+administration, and work done by the Senate Energy
+Committee. Legislation passed both the House and Senate in the 96th
+Congress, but the conference committee was unable to reconcile the
+bills. However, work continued and the 97th Congress passed the
+Nuclear Waste Policy Act (NWPA) and it was signed into law by President
+Reagan in January 1983 [@cq_almanac_comprehensive_1982].
+
+The NWPA outlined the role the federal government would play in UNF management.
+Among its other provisions, it required the DOE to nominate five sites for consideration as appropriate for geological storage and required the
+Secretary of Energy to recommend one site to the President. It
+also allowed for a second repository to be built, presumably, in the
+eastern U.S. Once a site was chosen, the potential host 
+state was allowed to veto the facility, however this veto could be
+overridden by Congress [@carter_nuclear_1987; @clary_enactment_1991]. The site selection process created thorny federalism issues [@downey_federalism_1985], where states felt that their input was limited. 
+
+## Post-Nuclear Waste Policy Act (1983-1987)
+Given the federalism questions and the other issues raised by the NWPA, this period is the most likely to experience periods of intense mobilization. As noted, the NWPA compelled the DOE to characterize five possible sites for
+the disposal of UNF. Five sites were proposed in late 1984, and they
+were located in Hanford, Washington; Yucca Mountain, Nevada; Deaf Smith County,
+Texas; Davis Canyon, Utah; and Richton Dome, Mississippi.
+
+The evaluation of these sites lead the DOE, in their Draft
+Environmental Assessments, to rank (in alphabetical order) Deaf Smith,
+Hanford, and Yucca Mountain as the top three choices
+[@vandenbosch_nuclear_2007, 62-63]. However, in 1986 the DOE
+released a "Multi-Attribute Utility Analysis" that ranked (in order)
+Yucca Mountain, Richton Dome, Davis Canyon, and Hanford as the
+preferred sites based on "minimizing health and safety impacts, and
+construction, and transportation costs" [@vandenbosch_nuclear_2007, p 63].
+
+Based on these reports, in 1986 the DOE limited consideration to three possible sites; the Hanford site in Washington state, Deaf Smith County in Texas, and Yucca Mountain in Nevada. While these three sites matched those of the earlier environmental assessments, it did not match those of the later
+utility analysis. This lead many in the potential host states to
+begin to accuse the DOE of deciding on political rather than
+scientific or technical grounds, and this began to erode trust in the DOE
+[@clary_impact_1988; @kraft_public_1991; @vandenbosch_nuclear_2007]. 
+As a result of the increasing political controversy, Senator Bennett
+Johnson moved to have Yucca Mountain, which had ranked the highest in
+the 1986 analysis, selected as the only repository site to be
+considered. Yucca Mountain was chosen in a House and Senate conference
+committee in December of 1987 and was included in the Omnibus Budget Reconciliation Act of 1987. President Reagan signed the omnibus bill on December 22nd 1987 [@cq_almanac_nevada_1987; @walker_road_2009]. 
+
+The portion of the 1987 omnibus bill dealing with UNF came to be called the Nuclear Waste Policy Amendment Act of 1987 (NWPAA). The NWPAA,
+though initially intended to build on the NWPA of 1982, made major
+changes to UNF policy. The most prominent was designating
+Yucca Mountain in Nevada as the only site to be
+considered for a repository. This change has since been the basis of contention within the subsystem, however it did work to stabilize the subsystem by limiting conflict to the question of Yucca Mountain, hence mobilizing a consistent set of policy actors.
+
+## Yucca Mountain (1988-2010)
+The selection of Yucca Mountain, far from settling the question of UNF
+disposal, ratcheted up the intensity of the political controversy. This was
+in large part because of the political nature of how Yucca Mountain
+was chosen, in a conference committee "behind closed doors"
+[@vandenbosch_nuclear_2007]. Indeed, the legislation is often
+referred to (by opponents) as the "screw Nevada" bill. 
+
+The procedures set forth by the NWPA and the NWPAA called for DOE to recommend a repository site to the president. On January 10th, 2002, after missing the target date of 1998, then Secretary of Energy Spencer Abraham notified the state of Nevada that he intended to recommend Yucca Mountain as a permanent repository to President Bush. Secretary Abraham made his recommendation to President Bush on February 14th, 2002 and President Bush approved Yucca Mountain the next day. Following the veto provision in the NWPA, the state of
+Nevada vetoed the approval on April 8th, 2002 but Congress overrode that veto on May 8th, 2002.
+
+Once Yucca Mountain was formally approved, the next step involved the DOE
+submitting a license application to the NRC. The DOE originally
+planned to submit this license in 2004 [@cq_almanac_bush_2002], yet it
+was not submitted until the summer of 2008. 
+
+## Post-Yucca Mountain (2010 to present)
+The NRC had begun consideration of the license application soon after
+it was submitted however, the Obama administration's FY 2010 budget, submitted in 2009, drastically cut funding for the NRC's license review process. In
+2010 the DOE formally withdrew the license application and in its FY 2011 budget requested no funds at all for the Yucca Mountain  project. These events effectively canceled Yucca Mountain, fulfilling a campaign pledge that President Obama made in 2008.  When announcing the license withdrawal, President Obama called for a Presidential commission to
+examine options for the storage of UNF.
+
+The Blue Ribbon Commission for America's Nuclear Future released their final
+report in January 2012. The report made several recommendations
+including a the use of a "consent-based" approach to the siting of a UNF
+repository, a new quasi-governmental organization that would oversee
+all aspects of UNF management, "prompt efforts" to develop a
+geologic site for UNF disposal, and "prompt efforts" to develop
+temporary storage facilities in multiple locations.^[The Blue Ribbon Commission report can be found at http://www.brc.gov] Many of these recommendations, particularly those dealing with a consent-based process for site selection, are a result of the political issues related to Yucca Mountain.
+
+Hypothesis 1 posited that new policy actors are likely to become involved in a policy subsystem following major policy change. In the case of the UNF subsystem,  there are two major periods of disruption--the enactment of the NWPA in 1982 and the Amendments Act of 1987--therefore seeing shifts in the type of policy actors involved before and after those changes would provide  evidence in support of _H1_.
+
+For hypothesis 2 it was posited that groups that are likely "losers" due to policy change would be likely to mobilize. For UNF, groups that are most likely to see themselves as losers are the states in which a UNF repository site would be located. Therefore, it is likely that state policy actors and elected officials, as representatives of their states and districts,  would be most active in the period following the NWPA of 1982. The next section describes the data and methods used to test these hypotheses.
+
+# Data and Methods
+Participation in the UNF subsystem is traced using appearances at Congressional hearings. Congressional hearings have been the tradition method scholars have used to measure subsystem activity [@jenkins-smith_explaining_1991;
+  @jenkins-smith_politics_1993; @sabatier_vague_1993;
+  @baumgartner_agendas_1993; @worsham_wavering_1998; @worsham_up_2006;
+  @zafonte_short-term_2004; @may_widespread_2009; @may_widespread_2009-1].
+While there are some
+limitations with using congressional hearings to determine
+participation [see @leyden_interest_1995], hearings are a prominent public
+forum and are therefore likely to attract those that are most
+interested. In addition, policy change induces government demand for new and/or different information, which also makes it likely that Congressional hearings showcase the majority of the relevant interests.
+Data for the analysis came from 140 Congressional hearings, with
+1,322 witnesses, about used nuclear fuel between the years 1975
+and 2012.^[Appropriation hearings were excluded from the
+  subsequent analysis because participation in those hearings is
+  limited, therefore they
+  are not considered representative of participation in the entire subsystem.]
+Information on hearings
+was obtained from the _ProQuest Congressional_
+database, using the search terms "nuclear waste", "radioactive
+waste", "spent nuclear fuel", "used nuclear fuel", "Yucca Mountain."  The number of hearings within each policy era is shown in Figure \ref{fig:hearings}. 
+
+\begin{center}
+\textbf{INSERT FIGURE \ref{fig:hearings} ABOUT HERE}
+\end{center}
+
+As shown, the pre-NWPA era (1975-1982) had the highest number of hearings with `r with(hear, sum(hear[Group.1 <= 1983, "count"]))`. This was the period in which the used nuclear fuel subsystem split from the larger nuclear energy subsystem. The Yucca Mountain era (1988-2010), the longest (in terms of number of years/Congresses) policy era, had the second highest number of hearings with `r with(hear, sum(hear[Group.1 >= 1988 & Group.1 <=2010, "count"]))`. Finally, the period between the NWPA and the designation of Yucca Mountain saw `r with(hear, sum(hear[Group.1 >= 1983 & Group.1 <=1987, "count"]))` hearings and the post-Yucca Mountain period saw `r with(hear, sum(hear[Group.1 >= 2011 & Group.1 <= 2013, "count"]))` hearings. Overall, the period that received the most sustained Congressional attention was the period prior to the passage of the NWPA, followed by the increased attention as a result of the narrowing of locations to be considered to host the repository in the mid-1980s prior to the NWPAA. 
+
+To examine policy change and interest mobilization, I coded each of the 1,322 witnesses at each of the 140 hearings. Witnesses were categorized by group
+affiliation and then aggregated into six major categories; federal
+agencies, intergovernmental actors, elected officials, 
+nuclear industry interest groups, environmental interest groups,
+outside experts, and misc. _Federal Agencies_ include executive agency personnel (e.g., DOE, NRC, EPA) and individuals from congressional agencies (e.g., GAO, CBO). _Intergovernmental Actors_ include individuals
+employed by state agencies, state based interest groups, local
+government agencies, and Indian tribes. _Elected Officials_ are federal (e.g.,  members of Congress), state
+(e.g., governor, state legislature), and local (e.g., mayor, city
+council).^[Note that in this analysis elected officials are
+  those that appear as witnesses, not those on the committee.] 
+_Industry Interest Groups_ include individuals from business and industry groups (e.g., Atomic Industry Forum, Exxon Nuclear Company, General Electric Company, Nuclear Energy Institute). _Environmental Interest Groups_ are representatives from environmental groups (e.g., Sierra Club, Natural Resources Defense Council), and anti-nuclear groups (e.g., Public
+Citizen). _Outside Experts_ include area experts including the National Academy of Scientists, members of professional
+associations (e.g, National Association of Regulatory Utility
+Commissioners), and academic researchers. Finally, _Misc_ includes those that could not otherwise be  classified, such as private citizens. 
+Table \ref{tab:actors} shows the number of witnesses from each category by policy era.
+
+\begin{center}
+\textbf{TABLE \ref{tab:actors} ABOUT HERE}
+\end{center}
+
+The number of elected officials appearing as witness in Congressional hearings about UNF increased from `r electACTstage[[1]]` during the pre-NWPA era to `r electACTstage[[2]]` during the post-NWPA era. However, the Yucca Mountain era saw the highest number of elected officials testifying with `r electACTstage[[3]]`. Policy actors from federal agencies constituted the majority of witnesses in both the pre-NWPA and Yucca Mountain policy eras. The two major categories of interest groups varied in the policy eras in which they were most active. Industry groups were more active in the pre-NWPA and Yucca Mountain eras than the post-NWPA era, whereas environment groups were more active in the pre and post NWPA era than the Yucca Mountain era. Finally, intergovernmental actors were most active during the post-NWPA policy era where `r stateACTstage[[2]]` intergovernmental witnesses appeared.  Note that the $\chi^2$ for Table \ref{tab:actors} is `r tab1chi$statistic` which is significant at $p < 0.0001$, indicating significant differences between groups across the various policy eras, lending support to _H1_. 
+
+Table \ref{tab:intergov} breaks down the number of intergovernmental actors by state, local, and tribal affiliation across each phase of UNF policy development. Overall, `r sum(ingov.dat$stateACT)`, or `r round((sum(ingov.dat$stateACT))/(sum(nw.dat$stateACT))*100,0)` percent, of intergovernmental witnesses represented states. In addition, each type of intergovernmental actor was most active during the post-NWPA period. The $\chi^2$ for Table \ref{tab:intergov} was `r tab2chi$statistic` and significant at $p <$ `r tab2chi$p.value`.
+
+\begin{center}
+\textbf{TABLE \ref{tab:intergov} ABOUT HERE}
+\end{center}
+
+These results suggest that the participation of certain actors vary by policy era in expected ways, however to fully test the above hypotheses OLS models are used. The unit of analysis is the Congressional hearing and the dependent variables for the OLS models are _the percent of all witnesses for each category_ for each hearing. Overall, federal agencies had the highest percentage of witnesses with `r round(mean(nwHEAR$per.fed1),0)` percent of all witness being from a federal agency in all hearings that occurred between 1975 and 2012. Intergovernmental actors consisted of `r round(mean(nwHEAR$per.st1),0)` percent of all witnesses, and elected officials and outside experts both consisted of `r round(mean(nwHEAR$per.el1),0)` percent. Finally, industry groups and environmental groups were `r round(mean(nwHEAR$per.mat1),0)` and `r round(mean(nwHEAR$per.pur1),0)` percent of all witnesses, respectively.^[Note that the total won't add to a hundred due to the exclusive of the misc category. Descriptive statistics for all variables are in the appendix.]
+
+It was hypothesized that policy change would attract greater participation among some policy actors and for the UNF policy subsystem this would occur in the post-NWPA policy era. It was also hypothesized that policy losers, in this case intergovernmental actors and elected officials, would be mobilized and increase their participation in the post-NWPA era as compared to the other eras. To test these hypotheses I used dummy variables for each policy era, with the pre-NWPA (1975--1982) as the excluded referent making participation in that era the baseline. I also controlled for whether it was a legislative hearing, therefore if the hearing considered a piece(s) of legislation it was coded 1 for legislative and coded as 0 otherwise. Finally, I also included two dummy variables for whether the hearing occurred in the House and whether the hearing occurred under a Republican majority. The results are discussed in the next section.
+
+# Results
+
+Hypotheses 1 posited that policy change would mobilize actors to be more engaged in the policy subsystem. Table \ref{tab:ols} presents the results of the OLS models. 
+
+\begin{center}
+\textbf{TABLE \ref{tab:ols} ABOUT HERE}
+\end{center}
+
+Looking first to federal agencies, we see that they were less likely to appear during the post-NWPA era as compared to the pre-NWPA era. In addition, federal agencies were less likely to appear in legislative hearings. Looking next to the two types of interest groups, we see no significant differences for industry groups across all policy eras, whereas environmental groups were less likely to appear as witnesses during the Yucca Mountain era compared to the pre-NWPA era. In addition, both types of interest groups were more likely to appear at hearings that considered specific pieces of legislation, and finally environmental groups were more likely to appear in the House as opposed to the Senate. Finally, outside experts were less likely to appear during the post-NWPA period, more likely during the post-Yucca Mountain period, and less likely to appear in the House than the Senate.
+
+In terms of intergovernmental actors and elected officials, we see that both were, as expected, more likely to appear as witnesses at hearings that occurred following the passage of the NWPA. In addition, elected officials were more likely to appear during the Yucca Mountain period (largely these were officials from the state of Nevada) than the pre-NWPA era, more likely to appear at legislative as opposed to non-legislative hearings, and more likely to appear in the House as opposed to the Senate. Figure \ref{fig:pred} illustrates the predicted  percentage of all witnesses, with 90 and 95 percent confidence intervals, for intergovernmental actors and elected officials. The predicted percentage, keeping all other variables constant, for intergovernmental actors during the post-NPWA period was `r round(statePRE$fit[[2]], 2)`. For elected officials the predicted percentage of all witnesses for the post-NWPA period was `r round(electPRE$fit[[2]], 2)` and for the Yucca Mountain era was `r round(electPRE$fit[[3]], 2)`.
+
+\begin{center}
+\textbf{Figure \ref{fig:pred} ABOUT HERE}
+\end{center}
+
+# Discussion and Conclusion 
+
+Policy change has long been understood as a key outcome of the policy process. Indeed, in most policy process theories, policy change is the major dependent variable. Subsystem based frameworks of the policy process,
+like the Advocacy Coalition Framework (ACF) and Punctuated Equilibrium
+theory (PET), are based on the assumption that subsystem
+dynamics drive policy change. As a result, scholars have placed an
+extensive focus on those dynamics as a _cause_ of policy change, without as
+much consideration of the subsequent _effects_ of policy change
+on subsystem dynamics. An understanding of the factors that make policy change more (or less) likely is a vital component of understanding the policymaking process, however policy development is largely path dependent therefore, it is likely that past policy change can influence subsequent policy evolution. Drawing on research based on policy feedback and research on interest mobilization, I posited two hypotheses about the nature of engagement by policy actors. 
+
+The first hypothesis, drawing on research from the demand model of interest participation,  posited that policy change could activate new policy actors to become engaged in the policy subsystem. For the UNF subsystem, the change initiated by the NWPA provided the type of change that would mobilize new policy actors. The second, and related, hypothesis was about the nature of those actors that are more likely to become engaged. Drawing from the policy feedback literature, hypothesis 2 stated that those that were likely to see themselves as losers following policy change were likely to become engaged in the subsystem. Using data from Congressional hearings about UNF, the hypotheses were largely confirmed. As expected, the balance of policy actors shifted following the NWPA and those that became engaged were those that likely saw themselves as potential losers in the policy debate. These findings point to the need for scholars to further examine post-change subsystem dynamics as a component of policy development. 
+
+In addition, the results also point to other avenues for additional research. For example, the type of hearings, either legislative or not, seemed to have an influence on subsystem participation. On average, federal agencies tended to be less active in legislative hearings as opposed to non--legislative hearings. This is likely because non--legislative hearings are largely oversight hearings and involve Congress gathering information on the agency action. Compared to non--legislative hearings, interest groups and elected officials were more active when legislative related to UNF was being considered. Clearly legislative and non--legislative hearings have different goals and information needs, therefore further work should examine the generalizability of this finding to expand insights into the impacts of institutional incentives and need for information on subsystem dynamics. 
+
+While the results here lend support to both hypotheses, further work is needed to explore subsystem dynamics following policy change. In particular, other policy areas and/or other types of policies should be examined. UNF management is highly technical and low salience policy domain; therefore other types of less technical but more salient policy issues should be explored. For example, did passage of the Affordable Care Act (ACA) alter the types of actors engaged in the healthcare subsystem? It is likely that the ACA did have a significant impact on subsystem dynamics. In addition, future research should focus more on the subsequent policy development that results from the altered dynamics of the subsystem. It is likely that the decision to only consider Yucca Mountain for the disposal of UNF was a result of increased activity and pressure brought by intergovernmental actors in the UNF subsystem. Further work should systematically test hypotheses about policy development following policy change and the subsequent mobilization of new policy actors. While much of the focus of policy process research is likely to stay on factors that influence policy change, the nature of post-policy change dynamics is a potentially important area for policy scholars to consider. 
+
+
+\newpage
+\begin{table}[!htp]
+\centering
+\small
+\caption{Development of Used Nuclear Fuel Policy \label{tab:history}}
+\begin{tabular}{ l | p{8cm}}
+\hline
+%\multicolumn{3}{ |c| }{} \\
+%\hline
+Policy Eras (Years) & Events  \\
+\hline
+\multirow{3}{*} {Pre-NWPA (1975-1982)} & JCAE Abolished (1977) \\
+                                      & Interagency Review Group (1978)       \\ 
+                                      &\textit{Nuclear Waste Policy
+                                        Act} (1982)        \\
+\hline
+\multirow{3}{*}{Post-NWPA (1983-1987)} & DOE
+formally recommends three sites for consideration; one each in Washington, Texas, and Nevada (1986) \\
+                                       & {\textit{Nuclear Waste Policy
+                                        Amendments Act} (1987)}     \\
+\hline
+\multirow{2}{*}{Yucca Mountain (1988-2009)} 
+                                            & \textit{Yucca Mountain Approval}
+                                        (2002) \\
+                                           & License
+                                        Submitted (2008)       \\
+\hline
+\multirow{2}{*}{Post-Yucca Mountain (2010- )} & License
+                                        Withdrawn (2010)       \\
+                                        & Blue
+                                          Ribbon Commission (2012)
+                                        \\
+\hline
+ \multicolumn{2}{l}{\footnotesize{Legislation in italics}}\\
+\end{tabular}
+\end{table}
+
+\newpage
+```{r, include=FALSE}
+nwHEAR["count"] <- 1
+hear <- aggregate(nwHEAR[c("count")], by=list(nwHEAR$Year), FUN=sum)
+with(hear, sum(hear[Group.1 <= 1983, "count"]))
+with(hear, sum(hear[Group.1 >= 1983 & Group.1 <=1987, "count"]))
+with(hear, sum(hear[Group.1 >= 1988 & Group.1 <=2010, "count"]))
+with(hear, sum(hear[Group.1 >= 2011 & Group.1 <= 2013, "count"]))
+pdf("hearplot.pdf", width=20, height=10)
+plot(hear, type="l", ylim=c(0,15), ylab="Number of UNF Hearings", xlab="Year", xaxt="n", lwd=2)
+axis(1,at=1975:2012)
+abline(v=1982, lty=5)
+abline(v=1987, lty=5)
+abline(v=2010, lty=5)
+text(1975,15, paste("Pre-Nuclear Waste Policy Act: ", with(hear, sum(hear[Group.1 <= 1983, "count"]))), pos=4, cex=.9,font=c(4))
+text(1982,15, paste("Post-Nuclear Waste Policy\nAct: ", with(hear, sum(hear[Group.1 >= 1983 & Group.1 <=1987, "count"]))), pos=4, cex=.9,font=c(4))
+text(1997, 15, paste("Yucca Mountain: ", with(hear, sum(hear[Group.1 >= 1988 & Group.1 <=2010, "count"]))), pos=4, cex=.9,font=c(4))
+text(2010,15, paste("Post-Yucca: ", with(hear, sum(hear[Group.1 >= 2011 & Group.1 <= 2013, "count"]))), pos=4, cex=.9,font=c(4))
+dev.off()
+```
+
+\begin{sidewaysfigure}
+\caption{Number of Congressional Hearings by UNF Policy Era \label{fig:hearings}}
+\includegraphics[width=8in]{hearplot.pdf}
+\end{sidewaysfigure}
+
+\newpage
+```{r, echo=FALSE, results='asis'}
+tab1x <- xtable(tab1, align=("lcccc"), caption="Number of Policy Actors by Type across Policy Eras", label="tab:actors")
+rownames(tab1x) <- c("Elected Officials", "Federal Agencies","Industry Groups","Misc","Outside Experts","Environmental Groups","Intergovernmental")
+colnames(tab1x) <- c("Pre-NWPA","Post-NWPA","Yucca Mountain","Post-Yucca")
+print.xtable(tab1x, caption.placement="top")
+```
+
+\newpage
+```{r, echo=FALSE, results='asis'}
+tab2x <- xtable(tab2, align=("lcccc"), caption="Number of Intergovernmental Actors across Policy Eras", label="tab:intergov")
+rownames(tab2x) <- c("Local", "State", "Tribal")
+colnames(tab2x) <- c("Pre-NWPA","Post-NWPA","Yucca Mountain","Post-Yucca")
+print.xtable(tab2x, caption.placement="top")
+```
+
+\newpage
+```{r, echo=FALSE, results='asis'}
+texreg(l=list(feds1, state1, elect1, indust1, env1, out1),  custom.model.names=c("Federal Agencies", "Intergovernmental", "Elected Officials", "Industry Groups", "Environmental Groups", "Outside Experts"), custom.coef.names=c("Intercept", "Post-NWPA", "Yucca Mountain", "Post-Yucca", "Legislative", "House", "Republican Majority"), caption="OLS Estimates of Participation by Policy Era", caption.above=TRUE,label="tab:ols", sideways=TRUE, scriptsize=TRUE, use.packages=FALSE)
+```
+
+\newpage
+```{r, include=FALSE}
+era.predict <- 
+data.frame(
+stage2=c(0,1,0,0), 
+stage3=c(0,0,1,0),
+stage4=c(0,0,0,1),
+leg=mean(nwHEAR$leg),
+house=mean(nwHEAR$house),
+rep.majority=mean(nwHEAR$rep.majority)
+)
+statePRE <- predict(state1, era.predict, se.fit=TRUE) 
+electPRE <- predict(elect1, era.predict, se.fit=TRUE) 
+inter.p <- c(statePRE$fit[1], statePRE$fit[2], statePRE$fit[3], statePRE$fit[4])
+inter.se <- c(statePRE$se.fit[1], statePRE$se.fit[2], statePRE$se.fit[3], statePRE$se.fit[4])
+elect.p <- c(electPRE$fit[1],electPRE$fit[2],electPRE$fit[3],electPRE$fit[4])
+elect.se <- c(electPRE$se.fit[1],electPRE$se.fit[2],electPRE$se.fit[3],electPRE$se.fit[4])
+var.names = c("Pre-Nuclear Waste\nPolicy Act", "Post-Nuclear Waste\nPolicy Act", "Yucca Mountain", "Post-Yucca Mountain")
+pdf("predintergov.pdf", width=5.5, height=5)
+   #par(mfrow=c(1,2))
+plot(NULL,                              
+  xlim = c(0,50),                     
+  ylim = c(.7, length(var.names) + .3),
+  axes = F, xlab = NA, ylab = NA)      
+for (i in 1:length(inter.p)) {  
+  points(inter.p[i], i, pch = 19, cex = .5)
+  lines(c(inter.p[i] + 1.64*inter.se[i], inter.p[i] -
+          1.64*inter.se[i]),c(i, i))         
+  lines(c(inter.p[i] + .67*inter.se[i], inter.p[i] -
+          .67*inter.se[i]),
+        c(i, i), lwd = 3) 
+  text(inter.p[i], i, var.names[i], xpd = T, cex = .8, pos = 3)  
+}
+axis(side = 1)
+mtext(side =
+      1,"Predicted Percent of All Witnesses",cex=.9,line= 2.5)
+mtext(side = 3, "Intergovernmental Actors",line = 1)
+box()
+dev.off
+pdf("predelect.pdf", width=5.5, height=5)
+plot(NULL,                       
+  xlim = c(-4,40),                     
+  ylim = c(.7, length(var.names) + .3),
+  axes = F, xlab = NA, ylab = NA)      
+for (i in 1:length(elect.p)) {  
+  points(elect.p[i], i, pch = 19, cex = .5)
+  lines(c(elect.p[i] + 1.64*elect.se[i], elect.p[i] -
+          1.64*elect.se[i]),c(i, i))         
+  lines(c(elect.p[i] + .67*elect.se[i], elect.p[i] -
+          .67*elect.se[i]),
+        c(i, i), lwd = 3) 
+  text(elect.p[i], i, var.names[i], xpd = T, cex = .8, pos = 3)  
+}
+axis(side = 1)
+mtext(side =
+      1,"Predicted Percent of All Witnesses",cex=.9,line= 2.5)
+mtext(side = 3, "Elected Officials",line = 1)
+box()
+dev.off()
+```
+
+\begin{figure}
+\centering
+\caption{Intergovernmental Actors and Elected Officials Predicted Participation by Policy Era \label{fig:pred}}
+\begin{subfigure}[b]{0.45\textwidth}
+\includegraphics[width=\textwidth]{predintergov.pdf}
+\end{subfigure}
+\begin{subfigure}[b]{0.45\textwidth}
+\includegraphics[width=\textwidth]{predelect.pdf}
+\end{subfigure}
+\end{figure}
+
+\newpage
+
+# References
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt}
+\vspace*{-0.2in}
+\singlespace
+\noindent
+
+
+
+\newpage
+# Appendix
+```{r, echo=FALSE, results='asis'}
+dTab <- sapply(nwHEAR[,5:18], each(mean, min, max, sd))
+dTabt <- t(dTab)
+rownames(dTabt) <- c("Federal Agencies", "Outside Experts", "Intergovernmental", "Industry Groups","Environmental Groups", "Elected Officials", "Misc", "Legislative Hearings", "House", "Republican Majority", "Pre-NWPA", "Post-NWPA", "Yucca Mountain", "Post-Yucca Mountain")
+colnames(dTabt) <- c("Mean","Min","Max","sd")
+print(xtable(dTabt, align=("lcccc"), caption="Summary Statistics", label="tab:sum"), caption.placement="top")
+```
+
